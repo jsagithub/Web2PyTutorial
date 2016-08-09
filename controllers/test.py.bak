@@ -1,0 +1,5 @@
+# -*- coding: utf-8 -*-
+def hello():    
+    a=1    
+    b=2
+    return locals()
